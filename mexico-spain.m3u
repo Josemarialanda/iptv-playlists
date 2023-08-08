@@ -1,0 +1,92 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="101tvMalaga.es" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="News",101tv Malaga
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:-1 tvg-id="7TelevisionRegiondeMurcia.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/7TVRM.svg/512px-7TVRM.svg.png" group-title="",7 Television Region de Murcia
+https://ythls.onrender.com/channel/UCXi-7dpQ1mnf8kxIVCe9mCA.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="News",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://i.imgur.com/2312Luq.png" group-title="",CaliTV
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-logo="https://i.imgur.com/TvTn3hO.png" group-title="",Canal 10 Cancun
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal22Nacional.mx" tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="",Canal 22 Nacional
+http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://conceptoweb-studio.com/radio/video/canal22/
+#EXTINF:-1 tvg-id="Canal33Madrid.es" tvg-logo="https://i.imgur.com/1zJpDIX.png" group-title="",Canal 33 Madrid
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
+#EXTINF:-1 tvg-id="Canal45.es" tvg-logo="https://i.imgur.com/yEfSnGt.png" group-title="",Canal 45
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+#EXTINF:-1 tvg-id="Canal4ManchaCentro.es" tvg-logo="https://i.imgur.com/t3O3O9M.png" group-title="",Canal 4 Mancha Centro
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4Tenerife.es" tvg-logo="https://i.imgur.com/Egymir4.png" group-title="",Canal 4 Tenerife
+https://5940924978228.streamlock.net/Directo4/Directo4/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="General",Canal 5
+http://190.61.102.67:2000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="CanalDiocesano.es" tvg-logo="https://i.imgur.com/uWhVKL3.png" group-title="",Canal Diocesano
+https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
+#EXTINF:-1 tvg-id="CanalMalagaRTV.es" tvg-logo="https://i.imgur.com/QSUOxtM.png" group-title="",Canal Malaga RTV
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSur2.es" tvg-logo="https://i.imgur.com/TM8XBky.png" group-title="General",Canal Sur 2
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-logo="https://i.imgur.com/A9TmimD.png" group-title="",Canal Sur Andalucia
+https://ythls.onrender.com/channel/UChtLgH7ZJLqLGWJpBnzy9Lg.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="",Caracol TV
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+#EXTINF:-1 tvg-id="CordobaTV.es" tvg-logo="https://i.imgur.com/qVe0hET.png" group-title="",Cordoba TV
+https://cloudvideo.servers10.com:8081/8020/index.m3u8
+#EXTINF:-1 tvg-id="CostadelSolTV.es" tvg-logo="https://i.imgur.com/01acb17.png" group-title="General",Costa del Sol TV
+https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
+#EXTINF:-1 tvg-id="ElNu9ve.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Nueve_%282018_logo%29.png/512px-Nueve_%282018_logo%29.png" group-title="Entertainment",El Nu9ve
+https://linear-352.frequency.stream/352/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ExcelsiorTV.mx" tvg-logo="https://i.imgur.com/bJpjfpt.png" group-title="",Excelsior TV
+https://ythls.onrender.com/channel/UClqo4ZAAZ01HQdCTlovCgkA.m3u8
+#EXTINF:-1 tvg-id="Foro.mx" tvg-logo="https://i.imgur.com/dDFrONz.png" group-title="News",Foro
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+#EXTINF:-1 tvg-id="HuelvaTV.es" tvg-logo="https://i.imgur.com/hEnpvKj.png" group-title="",Huelva TV
+https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
+#EXTINF:-1 tvg-id="JuntadeCastillayLeon.es" tvg-logo="https://i.imgur.com/hGR3tv9.png" group-title="Legislative",Junta de Castilla y Leon
+https://16escalones-live2.flumotion.com/chunks.m3u8
+#EXTINF:-1 tvg-id="La1Canarias.es" tvg-logo="https://i.imgur.com/RqUJ4oj.png" group-title="General",La 1 Canarias
+https://rtvelivestream-clnx.rtve.es/rtvesec/can/la1_can_main_720.m3u8
+#EXTINF:-1 tvg-id="La2Canarias.es" tvg-logo="https://i.imgur.com/iwDi3ND.png" group-title="Documentary",La 2 Canarias
+https://rtvelivestream.akamaized.net/rtvesec/can/la2_can_main_dvr.m3u8
+#EXTINF:-1 tvg-id="La7.es" tvg-logo="https://i.imgur.com/haWbhrS.png" group-title="",La 7
+https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
+#EXTINF:-1 tvg-id="La8Leon.es" tvg-logo="https://i.imgur.com/0cauvlI.png" group-title="",La 8 Leon
+https://cdnlive.shooowit.net/la8leonlive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="La8Salamanca.es" tvg-logo="https://i.imgur.com/DiM5iWn.png" group-title="",La 8 Salamanca
+https://cdnlive.shooowit.net/la8salamancalive/smil:streamswitchingchannel.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LevanteTV.es" tvg-logo="https://i.imgur.com/8Gtzgan.png" group-title="",Levante TV
+https://play.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/029/playlist.m3u8
+#EXTINF:-1 tvg-id="LleidaTelevisio.es" tvg-logo="https://i.imgur.com/xWY2568.png" group-title="",Lleida Televisio
+#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
+https://liveingesta318.cdnmedia.tv/lleidatvlive/smil:live.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="",Mexiquense TV
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-id="MultimediosPuebla.mx" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="",Multimedios Puebla
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+#EXTINF:-1 tvg-id="NegociosTV.es" tvg-logo="https://i.imgur.com/iXYfCBd.png" group-title="",Negocios TV
+https://streaming013.gestec-video.com/hls/negociostv.m3u8
+#EXTINF:-1 tvg-id="NoticiasCanal10.mx" tvg-logo="https://i.imgur.com/JCBZaHf.png" group-title="News",Noticias Canal 10
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:-1 tvg-id="NPlus.mx" tvg-logo="https://i.imgur.com/TwBa344.png" group-title="News",N+
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+#EXTINF:-1 tvg-id="OndaMadrid.es" tvg-logo="https://i.imgur.com/Q1YwYsR.png" group-title="",Onda Madrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/ondamadrid_1/index.m3u8
+#EXTINF:-1 tvg-id="PTVMalaga.es" tvg-logo="https://i.imgur.com/4eZYIX1.png" group-title="",PTV Malaga
+https://streamer.zapitv.com/PTV-malaga/index.m3u8
+#EXTINF:-1 tvg-id="PTVSevilla.es" tvg-logo="https://i.imgur.com/EcinFGu.png" group-title="General",PTV Sevilla
+https://streamer.zapitv.com/PTV_sevilla/index.m3u8
+#EXTINF:-1 tvg-id="RTQQueretaro.mx" tvg-logo="https://i.imgur.com/RRckCvf.png" group-title="",RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 tvg-id="TeleVigo.es" tvg-logo="https://i.imgur.com/4iVmlFa.png" group-title="",TeleVigo
+https://cloud.streamingconnect.tv/hls/televigo/televigo.m3u8
+#EXTINF:-1 tvg-id="TelevisaQueretaro.mx" tvg-logo="https://i.imgur.com/BKK0kTl.png" group-title="",Televisa Queretaro
+https://ythls.onrender.com/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
+#EXTINF:-1 tvg-id="TelevisaVeracruz.mx" tvg-logo="https://i.imgur.com/7UsilfH.png" group-title="",Televisa Veracruz
+https://ythls.onrender.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
+#EXTINF:-1 tvg-id="TelevisaYucatan.mx" tvg-logo="https://i.ibb.co/sm8Wnwn/IMG-20230724-113929.jpg" group-title="",Televisa Yucatan
+https://ythls.onrender.com/channel/UCMIYaH2cLoPS8Hcb-9AA2ZA.m3u8
